@@ -1,4 +1,4 @@
-FROM locustio/locust
+FROM goyoong33/newlocust
 ADD locust-tasks /locust-tasks
 # COPY locust-tasks /locust-tasks
 USER root
